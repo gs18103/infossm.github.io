@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Zip Tree"
-date:   2025-09-15 22:00:00
+title:  "Solving Laplace's Equation Numerically"
+date:   2025-09-15 
 author: defwin
 tags: [physics, machine learning]
 ---
