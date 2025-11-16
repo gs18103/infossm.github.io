@@ -62,4 +62,5 @@ tags: [math, Lie groups, Lie algebras]
 
 ## References
 Hall, Brian. _Lie Groups, Lie Algebras, and Representations: An Elementary Introduction._ Germany: Springer International Publishing, 2015.
+
 L.W. Tu. _An Introduction to Manifolds._ Universitext. Springer New York, 2007.
