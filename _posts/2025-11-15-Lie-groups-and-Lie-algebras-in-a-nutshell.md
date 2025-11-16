@@ -44,12 +44,22 @@ tags: [math, Lie groups, Lie algebras]
 
 복소수 계수의 가역 행렬들 $GL(n,\mathbb{C})$도 생각할 수 있는데요, 이 행렬들도 복소수를 2개의 실수로 표현되는 수라고 생각하면 $2n^2$ 차원의 유클리드 공간의 부분집합으로 생각할 수 있어 리 군임을 알 수 있습니다.
 
+이제 대표적인 $GL(n,\mathbb{C})$의 부분 리 군(부분집합이면서 리 군인 집합)들에 대해 알아보겠습니다.
+
+- O(n), SO(n)
+- U(n), SU(n)
+- O(p, q), SO(p, q)
+- Sp(n)
+
 ## 3. Tangent space, Lie algebras
 
 ## 4. Exponential maps
 
-## 5. 
+## 5. Some applications (briefly)
+
+## 6. Outro
+
 
 ## References
-Hall, Brian. _Lie Groups, Lie Algebras, and Representations: An Elementary Introduction._ Germany: Springer International Publishing, 2015.
+Hall, Brian. _Lie Groups, Lie Algebras, and Representations: An Elementary Introduction._ Germany: Springer International Publishing, 2015. \\
 L.W. Tu. _An Introduction to Manifolds._ Universitext. Springer New York, 2007.
